@@ -1,6 +1,6 @@
 
 https://dev-leadgen.apexure.org/
-![[Pasted image 20230911192919.png]]
+![Pasted image 20230911192919](https://github.com/numaan911098/leadgenapp-bug-report/assets/50366430/eee21eea-d427-44bd-8b09-8a000fed774b)
 
 ## information gathering
 
