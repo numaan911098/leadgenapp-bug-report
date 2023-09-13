@@ -13,8 +13,8 @@ mail server = mail.dev-leadgen.apexure.org
 ```
 
 5 open ports found
-![Pasted image 20230911200605](https://github.com/numaan911098/leadgenapp-bug-report/assets/50366430/ce17937c-5db3-453c-ad39-2c100b9a7e5f)
 
+![Pasted image 20230911200605](https://github.com/numaan911098/leadgenapp-bug-report/assets/50366430/ce17937c-5db3-453c-ad39-2c100b9a7e5f)
 
 port scan
 ```css
