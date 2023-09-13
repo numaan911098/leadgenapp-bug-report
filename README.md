@@ -4,7 +4,8 @@ https://dev-leadgen.apexure.org/
 
 ## information gathering
 
-![[Pasted image 20230911193340.png]]
+![Pasted image 20230911193340](https://github.com/numaan911098/leadgenapp-bug-report/assets/50366430/0db06028-3672-4dae-bae0-033700d55d7f)
+
 
 ```css
 $IP = 142.93.40.28
@@ -12,7 +13,8 @@ mail server = mail.dev-leadgen.apexure.org
 ```
 
 5 open ports found
-![[Pasted image 20230911200605.png]]
+![Pasted image 20230911200605](https://github.com/numaan911098/leadgenapp-bug-report/assets/50366430/ce17937c-5db3-453c-ad39-2c100b9a7e5f)
+
 
 port scan
 ```css
