@@ -1,20 +1,24 @@
 ## Started the enumeration by sending a random email address that do not exit on the database.
 
 Request
+
 ![Pasted image 20230920214255](https://github.com/numaan911098/leadgenapp-bug-report/assets/50366430/32387d23-023f-4f70-9394-cfb87f1e0ca4)
 
 
 Response
+
 ![Pasted image 20230920214551](https://github.com/numaan911098/leadgenapp-bug-report/assets/50366430/c39584de-8edb-4706-8979-88a7b28ddd98)
 
 
 ## sending email address that exits on the database.
 
 Request
+
 ![Pasted image 20230920214839](https://github.com/numaan911098/leadgenapp-bug-report/assets/50366430/28777cc6-961e-4d54-a263-8dd86cb382ae)
 
 
 Response
+
 ![Pasted image 20230920214919](https://github.com/numaan911098/leadgenapp-bug-report/assets/50366430/9ed7c6eb-a08f-4e50-908b-5536163340e2)
 
 
