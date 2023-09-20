@@ -1,4 +1,4 @@
-## Started the enumeration by sending a random email address that do not exits.
+## Started the enumeration by sending a random email address that do not exit on the database.
 
 Request
 ![Pasted image 20230920214255](https://github.com/numaan911098/leadgenapp-bug-report/assets/50366430/32387d23-023f-4f70-9394-cfb87f1e0ca4)
