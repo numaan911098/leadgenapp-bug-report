@@ -1,18 +1,22 @@
 ## Started the enumeration by sending a random email address that do not exits.
 
 Request
+![Pasted image 20230920214255](https://github.com/numaan911098/leadgenapp-bug-report/assets/50366430/32387d23-023f-4f70-9394-cfb87f1e0ca4)
 
 
 Response
-![[Pasted image 20230920214551.png]]
+![Pasted image 20230920214551](https://github.com/numaan911098/leadgenapp-bug-report/assets/50366430/c39584de-8edb-4706-8979-88a7b28ddd98)
+
 
 ## sending email address that exits on the database.
 
 Request
-![[Pasted image 20230920214839.png]]
+![Pasted image 20230920214839](https://github.com/numaan911098/leadgenapp-bug-report/assets/50366430/28777cc6-961e-4d54-a263-8dd86cb382ae)
+
 
 Response
-![[Pasted image 20230920214919.png]]
+![Pasted image 20230920214919](https://github.com/numaan911098/leadgenapp-bug-report/assets/50366430/9ed7c6eb-a08f-4e50-908b-5536163340e2)
+
 
 #### In other applications this would have been a low finding but bcz of the week password policy(the application do not check for password strength and accept any string  > 8 characters). This can lead to a huge vulnerability. This is just a development server with limited accounts but on the main app there are thousands of accounts with week passwords an attacker can narrow down the potential users and can launch a huge scale Brute force attack .
 
